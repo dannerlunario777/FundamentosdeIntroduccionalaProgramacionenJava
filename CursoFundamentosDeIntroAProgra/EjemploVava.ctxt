@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=EjemploVava
+comment1.params=
+comment1.target=int\ SumarMin()
+comment2.params=hr
+comment2.target=int\ convertirHrsMin(int)
+numComments=3
