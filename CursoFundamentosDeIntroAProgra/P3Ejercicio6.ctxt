@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=P3Ejercicio6
+comment1.params=a\ b\ c\ aA\ bB\ cC
+comment1.target=void\ datos(int,\ int,\ int,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+numComments=2

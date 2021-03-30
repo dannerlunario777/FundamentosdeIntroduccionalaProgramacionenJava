@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=P3Ejercicio7
+comment1.params=n
+comment1.target=int\ numero(int)
+comment2.params=
+comment2.target=java.lang.String\ generarMensaje()
+numComments=3
