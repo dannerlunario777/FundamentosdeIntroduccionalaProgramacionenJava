@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=UnicornioTron
+comment1.params=premio
+comment1.target=UnicornioTron(double)
+comment2.params=
+comment2.target=double\ getPremio()
+comment3.params=dinero
+comment3.target=void\ recargar(double)
+comment4.params=jug
+comment4.target=java.lang.String\ jugar(Jugador)
+numComments=5

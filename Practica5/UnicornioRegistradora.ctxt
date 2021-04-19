@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=UnicornioRegistradora
+comment1.params=precioProducto\ cantidadDeProducto
+comment1.target=UnicornioRegistradora(int,\ int)
+comment2.params=persona
+comment2.target=java.lang.String\ calcularPrecio(Person)
+numComments=3
