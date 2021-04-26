@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=P6Ejercicio9
+comment1.params=capacidad
+comment1.target=P6Ejercicio9(int)
+comment2.params=c
+comment2.target=boolean\ agregarCancion(Cancion)
+comment3.params=nombreCancion
+comment3.target=boolean\ eliminarCancion(java.lang.String)
+numComments=4
