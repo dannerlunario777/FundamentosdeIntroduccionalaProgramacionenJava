@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Ejercicio1P7
+comment1.params=nom1\ nom2
+comment1.target=Ejercicio1P7(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ sumarNombres()
+numComments=3

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Ejercicio6P7
+comment1.params=nom\ pref
+comment1.target=Ejercicio6P7(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ esPrefijo()
+numComments=3
